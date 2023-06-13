@@ -5,6 +5,8 @@ date:   2023-06-13
 categories: arcade beatmaniaiidx hardware
 ---
 
+Improving the Beatmania IIDX turn table "slipness" using a felt-based vinyl turn table slip mat.
+
 The turn tables on my IIDX machine were never in great shape when I received my cabinet. The parts
 that create the "slipness" wear off over the years of usage, and the turn table becomes harder to
 spin or even trigger in the game.
