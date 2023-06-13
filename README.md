@@ -26,8 +26,9 @@ just serve
 * Reasonable size for fast loading times and less asset bloat
   * For detailed pictures, keep original size
 * Remove any EXIF metadata before uploading
-* 1024x768 seems to be a reasonable size for most images where details don't matter
+* 1500x seems to be a reasonable size for most images can still contain visible details but are ok
+  file size wise (< 500 kb per image)
 
 ```sh
-for i in *.jpg; do convert $i -strip -resize 1024x768 out-$i; done
+for i in *.jpg; do convert $i -strip -resize 1500x out-$i; done
 ```
