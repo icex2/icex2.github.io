@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "First post, let's start somewhere"
-date:   2023-06-13
+date:   2023-06-13 12:00:00
 categories: misc
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "BeatmaniaIIDX arcade turn table slipmat mod"
-date:   2023-06-13
+date:   2023-06-13 14:00:00
 categories: arcade beatmaniaiidx hardware
 ---
 
