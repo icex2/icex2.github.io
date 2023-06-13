@@ -21,9 +21,10 @@
 title: icex2's blog
 email: djh.icex2@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Various (Bemani/musicgame) arcade related stuff.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+  Various (Vemani/musicgame) arcade related stuff.
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: "-"
 github_username:  icex2
 
 # Build settings
