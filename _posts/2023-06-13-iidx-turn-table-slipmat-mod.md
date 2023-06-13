@@ -38,5 +38,5 @@ turn table base (with the top removed):
 
 ![](/assets/2023-06-13-iidx-turn-table-slipmat-mod/iidx-tt-1.jpg)
 
-Note that this does fix any friction issues related to bad lubrication of the turn table bearings or
-screwing down the top disc too tight.
+Note that this does NOT fix any friction issues related to bad lubrication of the turn table
+bearings or screwing down the top disc too tight.
